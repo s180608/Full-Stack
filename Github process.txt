@@ -1,5 +1,0 @@
-1.download github from the google and install it in the system
-2.visit github from web and create an github account.
-3.create a new repository in the github.
-4.open cmd and set path for the required github uploading folder.
-5.
